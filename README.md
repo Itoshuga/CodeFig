@@ -13,4 +13,4 @@ Cependant dans le cas présent il m'a plutôt appris à comprendre comment fonct
 
 ### Apperçu
 
-![alt text](https://github.com/Itoshuga/CodeFig/blob/main/extra/apperçu.png?raw=true)
+![alt text](https://github.com/Itoshuga/CodeFig/blob/main/extra/codefig.png?raw=true)
